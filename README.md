@@ -3,7 +3,7 @@
 add to pubspec.yaml
 ```yaml
 dependencies:
-  python_channel:
+  symbol_image:
     git:
-      url: https://github.com/NguyenVanDuongTDH/python_channel.git
+      url: https://github.com/NguyenVanDuongTDH/symbol_image.git
 ```
